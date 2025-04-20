@@ -13,13 +13,6 @@ Responsive Design: Optimized for both desktop and mobile devices.
 
 Interactive Elements: Engaging JavaScript functionalities for a dynamic experience.
 
-🚀 Getting Started
-Clone this repository to get started with the project:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/mingle-food-ordering-website.git
 🌟 Technologies Used
 HTML5: Structure and content.
 
