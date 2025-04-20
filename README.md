@@ -1,4 +1,5 @@
- Food Ordering Website 🍔🍕🍣
+Mingle - Food Ordering Website 🍔🍕🍣
+
 Welcome to Mingle, your go-to platform for easy and seamless food ordering! This website allows users to browse through a variety of delicious meals, place orders, and enjoy a smooth, hassle-free experience—all built with HTML, CSS, and JavaScript.
 
 🛠️ Features
